@@ -1,0 +1,36 @@
+body{background-image:url('cimages/grass.jpg');
+	background-color:#686868 ;}
+h1{
+	color: #FFD700; 
+	text-align: right;
+	width: 990px;
+	padding-right: 10px;
+	border-right: solid black 17px;
+	border-bottom: solid black 17px;
+	font-size: 70px;
+	margin-top: -60px;
+}
+#info>h3{color: #FFD700}
+#info>h3+p{color:#FFD700;
+	text-align: center;
+	margin-top: -49px;}
+#info>h3+p+p{color:#FFD700;
+	text-align: right;
+	margin-top: -60px;
+	width:990px;}
+header>p{margin-right: 10px;
+		margin-left: 90px;
+		border-right-width: 40px;
+		padding-right: 150px;
+		padding-top: 10px;}
+#main>div>h4{margin-top: -85px;
+			margin-left: 500px;}
+#main>div>h3+ul+h4+ul{margin-left: 500px;
+					margin-top: -11px;}
+#main img{	margin-left: 500px;
+		margin-top: -108px;}
+ul
+{
+list-style-image:url('/Users/johnwiedman/Desktop/ACTUAL HW/dig.png');
+} 
+header>img{width:50px;}
